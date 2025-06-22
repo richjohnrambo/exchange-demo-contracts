@@ -1,4 +1,4 @@
-#learn how to use foundry
+## learn how to use foundry
 # foundry-starter-kit
 
 ## Usage
